@@ -1,0 +1,16 @@
+# Ortam değişkenleri (şifre, bağlantı bilgisi içerir - asla paylaşma)
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+
+# İşletim sistemi
+.DS_Store
